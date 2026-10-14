@@ -1,0 +1,6 @@
+{
+  "name": "SlideFlow Modern Web Studio",
+  "description": "A responsive website home page with a 6-slide smooth navbar navigation and dynamic hero showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
